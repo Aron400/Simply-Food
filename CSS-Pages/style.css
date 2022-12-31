@@ -91,7 +91,7 @@ input {
     color: #2e4711;
     font-size: 1.5rem;
     cursor: pointer;
-    right: 35px;
+    /* right: 45px; */
 }
 
 #search-button {
